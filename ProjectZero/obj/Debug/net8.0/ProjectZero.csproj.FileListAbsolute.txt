@@ -1,0 +1,17 @@
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\ProjectZero.exe
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\ProjectZero.deps.json
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\ProjectZero.runtimeconfig.json
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\ProjectZero.dll
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\ProjectZero.pdb
+C:\repos\cs\ProjectZero\ProjectZero\bin\Debug\net8.0\CommandLine.dll
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.csproj.AssemblyReference.cache
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.AssemblyInfoInputs.cache
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.AssemblyInfo.cs
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.csproj.CoreCompileInputs.cache
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.csproj.CopyComplete
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.dll
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\refint\ProjectZero.dll
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.pdb
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ProjectZero.genruntimeconfig.cache
+C:\repos\cs\ProjectZero\ProjectZero\obj\Debug\net8.0\ref\ProjectZero.dll

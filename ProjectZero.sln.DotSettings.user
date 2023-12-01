@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=B17459E1_002D622C_002D44F0_002DBBEA_002DDFEE816CE0C9_002Ff_003AUnitTest1_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=B17459E1_002D622C_002D44F0_002DBBEA_002DDFEE816CE0C9_002Ff_003AGlobalUsings_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26350277_002Dd98b_002D4ff6_002D8b5c_002Dfd16c7c1acd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Main_ShouldPrintGreeting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;B17459E1-622C-44F0-BBEA-DFEE816CE0C9/f:ProgramTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e05d713a_002D8029_002D41fd_002Db079_002D7c6cfb582a55/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParseCommandLineArguments_ShouldSetOptionsCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B17459E1-622C-44F0-BBEA-DFEE816CE0C9::net8.0::ProjectZeroTests.ProgramTests.ParseCommandLineArguments_ShouldSetOptionsCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

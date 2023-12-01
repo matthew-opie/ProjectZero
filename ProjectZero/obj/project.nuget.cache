@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "woRN5ZgEgFxwo+w6/l6GTY8csK9kFFAUfJKa4iEFKQYyPFq1J+Z8SJjilWWNz9jNhEAnqDUKgwPx2ZXwD9TyNw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\cs\\ProjectZero\\ProjectZero\\ProjectZero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Litho\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
